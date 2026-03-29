@@ -1,6 +1,6 @@
 ![MasterHead](https://www.niit.com/india/sites/default/files/2021-05/Game-Development-01.jpg)
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
-<h3 align="center">A passionate game developer and data analyst</h3>
+<h3 align="center">A passionate backend engineer and part time game programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1403191/screenshots/6247545/2gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh29501&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh29501" /> </p>
 
